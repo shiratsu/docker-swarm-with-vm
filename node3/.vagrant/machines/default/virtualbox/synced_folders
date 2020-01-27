@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/vagrant_data":{"guestpath":"/home/vagrant/vagrant_data","hostpath":"/Users/hiratsukashunsuke/docker-swarm-with-vm/node3/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/hiratsukashunsuke/docker-swarm-with-vm/node3","disabled":false,"__vagrantfile":true}}}
