@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  nginx:
+    image: nginx
+    ports:
+    - target: 80
+      published: 8080
+      protocol: tcp
+      mode: ingress
